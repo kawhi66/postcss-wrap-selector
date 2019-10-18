@@ -1,6 +1,6 @@
 {
   "name": "postcss-wrap-selector",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "PostCSS plugin for adding a parent selector to all rules in a css file.",
   "main": "index.js",
   "repository": "https://github.com/kawhi66/postcss-wrap-selector.git",
@@ -9,8 +9,5 @@
   "private": false,
   "dependencies": {
     "postcss": "5.2.5"
-  },
-  "publishConfig": {
-    "registry": "http://192.168.102.232:6060/repository/rd_center/"
   }
 }
